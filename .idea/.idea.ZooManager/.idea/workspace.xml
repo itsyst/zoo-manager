@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54750b69-57be-4681-bbd3-aa550d7bd6c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UserManager.Tests/PenguinTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager.Tests/LionTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/UserManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager.Tests/WombatTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/FakeDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Panda.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Snake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Wombat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/IAnimal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Lion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserManager/Penguin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ZooManager.Tests/PenguinTests.cs" />
+        <option value="$PROJECT_DIR$/ZooManager.Tests/WombatTests.cs" />
+        <option value="$PROJECT_DIR$/ZooManager/Animal.cs" />
+        <option value="$PROJECT_DIR$/ZooManager/ZooManager.cs" />
+        <option value="$PROJECT_DIR$/ZooManager/UI.cs" />
+        <option value="$PROJECT_DIR$/ZooManager/UserManager.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Animal.cs" />
+        <option value="$PROJECT_DIR$/UserManager/IAnimal.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Penguin.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Panda.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Wombat.cs" />
+        <option value="$PROJECT_DIR$/UserManager/FakeDatabase.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Snake.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Program.cs" />
+        <option value="$PROJECT_DIR$/UserManager/UserManager.cs" />
+        <option value="$PROJECT_DIR$/UserManager/Lion.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xw0o755QrmFG9f6ybMzXJr8bHD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ZooManager" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UserManager/UserManager.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54750b69-57be-4681-bbd3-aa550d7bd6c2" name="Default Changelist" comment="" />
+      <created>1581942023480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581942023480</updated>
+      <workItem from="1581942030559" duration="3691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1222" height="366" key="GridCell.Tab.0.bottom" timestamp="1581947921867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="366" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581947921867" />
+    <state width="1222" height="366" key="GridCell.Tab.0.center" timestamp="1581947921866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="366" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581947921866" />
+    <state width="1222" height="366" key="GridCell.Tab.0.left" timestamp="1581947921866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="366" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581947921866" />
+    <state width="1222" height="366" key="GridCell.Tab.0.right" timestamp="1581947921867">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="366" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581947921867" />
+    <state x="469" y="26" key="RiderGenerateDialog" timestamp="1581943765695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="26" key="RiderGenerateDialog/0.0.1280.680@0.0.1280.680" timestamp="1581943765695" />
+  </component>
+</project>
